@@ -11,9 +11,12 @@ $ cd pdfReader
 $ pip install -r requirements.txt
 
 ```
-
-```console
 # Utilizacao 
+```console
+entre na pasta do projeto
+
+$ cd pdfReader
+
 ## colocar o pdf que deseja extrair na pasta PDF
 
 $ python main.py
